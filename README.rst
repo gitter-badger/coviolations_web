@@ -1,6 +1,10 @@
 coviolations.io web
 ===================
 
+.. image:: https://badges.gitter.im/saxix/coviolations_web.svg
+   :alt: Join the chat at https://gitter.im/saxix/coviolations_web
+   :target: https://gitter.im/saxix/coviolations_web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://travis-ci.org/nvbn/coviolations_web.png
    :alt: Build Status
    :target: https://travis-ci.org/nvbn/coviolations_web
